@@ -24,12 +24,12 @@ Link to the dataset: https://www.kaggle.com/datasets/vjchoudhary7/customer-segme
 - `Annual Income (k$)`: Annual income of the customer in thousands of dollars
 - `Spending Score (1-100)`: Score assigned by the mall based on customer behavior and spending nature
 
-##exploratory-data-analysis
+## Exploratory-Data-Analysis
 - Loading and inspecting the dataset
 - Checking for missing values
 - Visualizing the data to understand distributions and patterns
 
-##Model Building
+## Model Building
 Steps:
 - Import the necessary libraries
 - Load the dataset
@@ -38,7 +38,7 @@ Steps:
 - Build the K-Means model with the optimal number of clusters
 - Visualize the clusters and their centroids
 
-##Results
+## Results
 The clustering results in five distinct customer segments:
 
 - Cluster 1: High earners, low spenders
@@ -47,7 +47,7 @@ The clustering results in five distinct customer segments:
 - Cluster 4: Low earners, high spenders
 - Cluster 5: Low earners, low spenders
 
-##Conclusion
+## Conclusion
 This project demonstrates how K-Means clustering can be effectively used for customer segmentation. The insights derived can help businesses in targeted marketing and personalized customer engagement strategies.
 
 ## Installation
