@@ -24,10 +24,7 @@ Link to the dataset: https://www.kaggle.com/datasets/vjchoudhary7/customer-segme
 - `Annual Income (k$)`: Annual income of the customer in thousands of dollars
 - `Spending Score (1-100)`: Score assigned by the mall based on customer behavior and spending nature
 
-## Installation
-To run this project, ensure you have Python installed along with the required libraries. You can install the necessary libraries using the `requirements.txt` file.
-
-##Exploratory Data Analysis
+##exploratory-data-analysis
 - Loading and inspecting the dataset
 - Checking for missing values
 - Visualizing the data to understand distributions and patterns
@@ -52,3 +49,6 @@ The clustering results in five distinct customer segments:
 
 ##Conclusion
 This project demonstrates how K-Means clustering can be effectively used for customer segmentation. The insights derived can help businesses in targeted marketing and personalized customer engagement strategies.
+
+## Installation
+To run this project, ensure you have Python installed along with the required libraries. You can install the necessary libraries using the `requirements.txt` file.
